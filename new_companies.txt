@@ -1,0 +1,2 @@
+This file has been created after resetting to 2nd commit.
+Staged the companies.txt file > stashed > cleared stash
