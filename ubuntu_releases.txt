@@ -1,0 +1,5 @@
+Bionic Beaver 18.04 LTS
+Cosmic Cuttlefish 18.10
+Disco Dingo 19.04
+Eoan Ermine 19.10
+Focal Fossa 20.04 LTS
